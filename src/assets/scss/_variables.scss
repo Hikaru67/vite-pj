@@ -1,0 +1,68 @@
+/*
+ * Copyright 2020 Digi Dinos JSC. All rights reserved.
+ * Email: tech@digidinos.com.
+ *
+ * Variables
+ */
+
+/* -----------------------------------------------------------
+  Bootstrap variables override
+----------------------------------------------------------- */
+// Fonts
+$font-family-sans-serif: 'Roboto', sans-serif;
+$font-size-base: 14 !default;
+
+// Global text color on `<body>`.
+$text-color: #2d2d2d !default;
+
+// Color
+$primary: #0fb3f3;
+
+/* -----------------------------------------------------------
+  Custom variables
+----------------------------------------------------------- */
+// Breakpoint
+$xs: 376px;
+$sm: 576px;
+$md: 768px;
+$lg: 992px;
+$xl: 1200px;
+$xxl: 1440px;
+
+// Fonts
+$font-sawarabi: 'Sawarabi Mincho', sans-serif;
+$font-rob: 'Roboto', sans-serif;
+
+// Color
+$light-red: #e1493e;
+$yellow-green: #8aba56;
+$blue: #046dd5;
+$orange: #ff8932;
+$purple: #5b4282;
+$yellow: #f1c40f;
+$pink: #e84c8b;
+$gray: #999;
+$text-color-gray: #777;
+$nav-item-color-blue: #044863;
+$nav-item-color-white: #fdfdfd;
+$nav-item-color-1: #fb474a;
+$nav-item-color-2: #f98f04;
+$nav-item-color-3: #05c989;
+$nav-item-color-4: #329ce5;
+$nav-item-color-5: #a94ed9;
+
+// Body background
+$body-background: #edeff0;
+
+// Height
+$header-height: 66px;
+$header-height-sp: 50px;
+$category-tabs-height-sp: 80px;
+$detail-nav-height: 50px;
+
+// Z-index
+$z-index-header-fixed: 96;
+$z-index-header-overlay: 97;
+$z-index-offcanvas-menu: 98;
+$z-index-loading: 99;
+$z-index-loading-fullscreen: 2000;
